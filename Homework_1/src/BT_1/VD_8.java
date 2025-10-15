@@ -20,7 +20,6 @@ public class VD_8 {
         System.out.println("------------------------------------");
         System.out.println("Độ dài tên của bạn là: " + doDai + " ký tự.");
 
-        // Đóng đối tượng Scanner
-        sc.close();
+
     }
 }
